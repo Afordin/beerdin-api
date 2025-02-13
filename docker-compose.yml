@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  beerdin-api:
+    container_name: beerdin-api
+    build: .
+    ports:
+      - "8000:80"
