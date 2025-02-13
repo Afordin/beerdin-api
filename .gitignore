@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+
+# Ruff cache
+.ruff_cache/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+
+# Logs & temp files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
